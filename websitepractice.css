@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    background-color: #1F2937;
+    height: 20vh;
+    color: white;
+}
+.header{
+    padding-right: 700px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.FH{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.SH{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.TH{
+    padding-top: 50px;
+}
+.middlet{
+    
+    padding-top: 200px;
+    padding-left: 200px;
+    background-color:#1F2937 ;
+    color: white;
+    height: 70vh;
+}
+
+.placeholder{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937 ;
+   gap: 100px;
+   height: 80vh;
+   
+}
+
+.thisweb{
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+
+}
+.text{
+    padding-top: 10px;
+    width: 300px;
+}
+.b{
+    gap: 10px;
+    background-color: lightblue;
+}
+
+.thorimg{
+
+    padding-top: 160px;
+}
+
+
+
+
+.middletxt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding-bottom: 50px;
+
+}
+
+.fimg{
+    width: 250px;
+    border: blue 5px;
+}
+
+.simg{
+    width: 250px;
+}
+
+.timg{
+    width: 250px;
+}
+
+.fimg{
+    width: 250px;
+}
+
+.ptxt{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .thor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    width: 500px; 
+} */
+
+.thor{
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    text-align: center;
+   background-color: #E5E7EB;
+    padding-left: 300px;
+    
+}
+
+
+.thortext{
+    padding-left: 180px;
+    width: 800px;
+
+}
+
+.thorname{
+    justify-content: end;
+    
+}
